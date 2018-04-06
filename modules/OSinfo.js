@@ -1,5 +1,5 @@
 var os = require('os');
-var time = require('./time');
+var time = require('./time.js');
 
 function getOSinfo() {
 
